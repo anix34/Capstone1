@@ -2,11 +2,9 @@ MyMixology
 External API: https://www.thecocktaildb.com/
 
 Description
-
 MyMixology is web application that contains hundreds of drink recipes including cocktails, mocktails, and shakes to name a few. Users may create an account to bookmark recipes at their leisure. However, access to the recipes is not limited to account holders. Users may refine their searches by applying filters in the search form.
 
 Features
-
 Search form allowing filtering by name, ingredient, or category.
 Filters can be chained.
 Allows for ease of access to recipes meeting specific criteria.
