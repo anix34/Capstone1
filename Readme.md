@@ -11,7 +11,7 @@ Allows for ease of access to recipes meeting specific criteria.
 Seed data from API filtered with better-profanity library to avoid recipes containing profanity.
 Multilingual instructions, where provided by the API.
 User accounts
-Login and registration handled on serverside with use of Flask and WTForms.
+Login and registration handled on server side with use of Flask and WTForms.
 Can bookmark recipes to easily access them when logged in.
 Not required to access recipes.
 User Flow
@@ -38,3 +38,4 @@ jQuery
 SQLAlchemy
 Unittest
 WTForms
+
